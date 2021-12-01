@@ -1,2 +1,13 @@
 /* style.css */
 
+.section {
+    flex: 1;
+}
+
+.intro {
+    background-color: #1F2937;
+}
+
+.hero-text {
+    color: #FFFFFF;
+}
