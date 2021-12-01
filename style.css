@@ -1,11 +1,12 @@
 /* style.css */
 
-.section {
-    flex: 1;
+.section.wide{
+    display: flex;
 }
 
 .intro {
     background-color: #1F2937;
+    margin-top: 0px;
 }
 
 .hero-text {
